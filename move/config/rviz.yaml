@@ -1,0 +1,23 @@
+motor:
+ # Publish all joint states -----------------------------------
+  joint_state_controller:
+    type: joint_state_controller/JointStateController
+    publish_rate: 50  
+
+  joint4_controller:
+    type: dynamixel_controllers/JointPositionController
+    joint: motortom2m
+
+  joint3_controller:
+    type: dynamixel_controllers/JointPositionController
+    joint: joint2
+
+  joint2_controller:
+    type: dynamixel_controllers/JointPositionController
+    joint: joint4
+
+  joint1_controller:
+    type: dynamixel_controllers/JointPositionController
+    joint: joint6
+
+

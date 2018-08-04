@@ -1,0 +1,12 @@
+<launch>
+
+
+<node name="tactiledata" pkg="move" type="tactiledata" />
+<node name="moveit" pkg="move" type="moveit" />
+<node name="xy" pkg="move" type="xy" />
+<node name="delta_x" pkg="move" type="delta_x" />
+<node name="cop" pkg="move" type="cop" output="screen"/>
+
+
+</launch>
+

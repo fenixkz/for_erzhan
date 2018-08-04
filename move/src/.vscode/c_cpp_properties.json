@@ -1,0 +1,45 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/arms/catkin_ws/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/arms/catkin_ws/src/vision_opencv/cv_bridge/include",
+                    "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include",
+                    "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include",
+                    "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include",
+                    "/home/arms/catkin_ws/src/vision_opencv/image_geometry/include",
+                    "/home/arms/catkin_ws/src/libuvc_ros/libuvc_camera/include",
+                    "/home/arms/catkin_ws/src/my_dynamixel_tutorial/include",
+                    "/home/arms/catkin_ws/src/my_dynamixel_workbench/include",
+                    "/home/arms/catkin_ws/src/rosserial/rosserial_server/include",
+                    "/home/arms/catkin_ws/src/rosserial/rosserial_test/include",
+                    "/home/arms/catkin_ws/src/usb_cam/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/arms/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/arms/catkin_ws/src/vision_opencv/cv_bridge/include",
+                "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_plugins/include",
+                "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros/include",
+                "/home/arms/catkin_ws/src/gazebo_ros_pkgs/gazebo_ros_control/include",
+                "/home/arms/catkin_ws/src/vision_opencv/image_geometry/include",
+                "/home/arms/catkin_ws/src/libuvc_ros/libuvc_camera/include",
+                "/home/arms/catkin_ws/src/my_dynamixel_tutorial/include",
+                "/home/arms/catkin_ws/src/my_dynamixel_workbench/include",
+                "/home/arms/catkin_ws/src/rosserial/rosserial_server/include",
+                "/home/arms/catkin_ws/src/rosserial/rosserial_test/include",
+                "/home/arms/catkin_ws/src/usb_cam/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}
